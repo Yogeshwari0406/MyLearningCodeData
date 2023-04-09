@@ -30,6 +30,6 @@ public class BrokenURLFind {
 	}
 		System.out.println("All URL correct, there is no broken link in this code");
 		}//code updated 2nd time
-	//code updated 2rd time
+	     //code updated 2rd time
 
 }
